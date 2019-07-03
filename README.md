@@ -1,4 +1,4 @@
-# WSE Javascript Template Repository
+# Hesburgh Libraries Javascript Template Repository
 ## Description
 ## Installation
 ## Testing - how to kick off test and what is the expected coverage
